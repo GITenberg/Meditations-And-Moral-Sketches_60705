@@ -1,0 +1,39 @@
+_repo: Meditations-And-Moral-Sketches_60705
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Ormonde, John Marquis Of
+    gutenberg_agent_id: '51090'
+    url: http://www.gutenberg.org/2009/agents/51090
+  - agent_name: K. P.
+    gutenberg_agent_id: '51091'
+    url: http://www.gutenberg.org/2009/agents/51091
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guisot, M. (François)
+    - Guizot, Monsieur (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+    - https://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_issued: '2019-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meditations And Moral Sketches
+url: http://www.gutenberg.org/ebooks/60705
